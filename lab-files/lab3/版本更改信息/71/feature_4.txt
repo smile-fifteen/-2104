@@ -1,0 +1,14 @@
+Java EE       
+
+Support for GlassFish 3.1.2
+
+Cluster and Instance deployment support for GlassFish
+
+Developing Java EE 6 applications for deployment toWebLogic Server        
+
+50+ CDI enhancements in Java editor        
+
+JSF component suite support        
+
+Improvements in Java Persistence, Web Services,EJB, WebLogic and more
+

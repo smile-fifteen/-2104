@@ -1,0 +1,10 @@
+PHP      
+
+Improved PHP debugging        
+
+ PHPUnit test groups capabilities        
+
+Support for Smarty templates
+
+Faster uploads with keep-alive for (S)FTP client
+

@@ -1,0 +1,12 @@
+Miscellaneous              
+
+Enhancements to Git support
+
+JRE bundled with the following NetBeans bundles: 			  
+HTML5/JavaScript
+
+PHP
+
+C/C++
+
+

@@ -1,0 +1,14 @@
+HTML5              
+
+ Cordova application development              
+
+Support for Android and iOS Browsers
+
+Editing support for stylesheet languages: SASS and                LESS
+
+Browser switcher in main toolbar
+
+Saving changes from Chrome Developer Tools
+
+Network monitor              
+

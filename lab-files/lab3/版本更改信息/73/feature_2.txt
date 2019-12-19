@@ -1,0 +1,12 @@
+Java
+
+Breadcrumbs: A new navigation bar shows the                current embedding in the editor
+
+Updated Show member and Show hierarchy views
+
+Set of new hints and refactorings              
+
+Filters for Find Usages results              
+
+Effective POM editor tab in pom.xml editor 
+

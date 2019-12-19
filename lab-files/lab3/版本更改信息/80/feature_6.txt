@@ -1,0 +1,10 @@
+C/C++              
+
+New Breadcrumbs feature for navigation in editor.
+
+New GDB Console to enable usage of command line GDB                mode.
+
+New hints and code completions.
+
+Improved remote performance.
+

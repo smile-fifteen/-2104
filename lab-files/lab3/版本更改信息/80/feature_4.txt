@@ -1,0 +1,10 @@
+HTML5
+
+Android 4.4 WebKit debugging supported for Cordova                3.3+.
+
+New Karma test runner support.
+
+New Grunt build support.
+
+Avatar.js is available in the Plugin Manager, via                Tools | Plugins. After installation, you're able to                create Avatar.js projects. 
+

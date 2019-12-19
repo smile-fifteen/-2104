@@ -1,0 +1,12 @@
+Java EE              
+
+ Support for Java EE 7 with both Maven and Ant                projects               
+
+Deployment to GlassFish 4              
+
+Deep support for major Java EE 7 specifications: JSF                2.2, JPA 2.1, JAX-RS 2.0, WebSocket 1.0 and more               
+
+Support for WebLogic 12.1.2 and JBoss 7.x               
+
+Java Persistence JPQL testing tool
+

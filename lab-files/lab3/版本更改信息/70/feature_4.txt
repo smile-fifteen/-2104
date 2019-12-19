@@ -1,0 +1,10 @@
+Java
+
+Maven 3 support
+
+JUnit 4.8.2 integration and various JUnit improvements 
+
+Remote HTTP URLs supported for Javadoc in libraries andJava platforms 
+
+New improved visual customizer for GridBagLayout        
+

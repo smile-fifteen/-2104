@@ -1,0 +1,6 @@
+JDK 7
+
+Project Coin support
+
+Editor enhancements: Code completion, hints
+

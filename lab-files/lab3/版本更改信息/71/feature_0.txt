@@ -1,0 +1,10 @@
+JavaFX
+
+Support for JavaFX 2.1        
+
+Support of all three deployment models: Desktop, Applet, JNLP
+
+Preloaders to improve application loading experience
+
+Customized UI controls using CSS3
+

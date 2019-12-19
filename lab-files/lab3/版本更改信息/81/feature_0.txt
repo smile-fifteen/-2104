@@ -1,0 +1,12 @@
+Node.js Application Development              
+
+New Node.js project wizard
+
+New Node.js Express wizard
+
+Enhanced JavaScript Editor
+
+New support for running Node.js applications
+
+New support for debugging Node.js applications
+

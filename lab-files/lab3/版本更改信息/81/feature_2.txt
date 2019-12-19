@@ -1,0 +1,19 @@
+Java Enhancements
+
+Enhanced Code Completion("intellisense")
+
+More expressive Navigator shows overridden & implemented methods
+
+Enhanced ordering rules in Options window
+
+Performance improvements for Java navigation tools:			  
+"Go To Type" (Ctrl-O)
+
+"Go To File" (Alt-Shift-O)
+
+"Go To Symbol" (Ctrl-Alt-Shift-O)
+
+"Find Usages" can include dependencies (
+details
+)
+ 

@@ -1,0 +1,8 @@
+C/C++              
+
+Run/Debug launchers support
+
+Find Usages improvements
+
+C/C++ formatting style per project              
+

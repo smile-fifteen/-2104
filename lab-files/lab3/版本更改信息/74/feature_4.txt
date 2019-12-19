@@ -1,0 +1,10 @@
+Java              
+
+Preview support for JDK 8 features: Profiles, Lambdas              
+
+Code completion, Hints and Refactoring                improvements 
+
+Native packaging
+
+Updated bundled Ant 1.9.1 and Maven 3.0.5              
+

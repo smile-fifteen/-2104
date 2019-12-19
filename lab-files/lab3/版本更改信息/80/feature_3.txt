@@ -1,0 +1,14 @@
+JavaScript              
+
+RequireJS Support
+
+AngularJS navigation via hyperlinking from view to                controllers.
+
+Many enhancements for AngularJS in code completion                between artifacts, such as code completion in the view                to properties defined in controllers.
+
+Code completion support in Knockout templates. 
+
+New editor support for creating JQuery widgets and                plugins.
+
+Debugging of JavaScript code executed in Nashorn (JDK                8+) script engine is supported.
+

@@ -1,0 +1,10 @@
+PHP Enhancements              
+
+New support for Phing
+
+Enhanced integration with Composer
+
+Code coverage added to Nette Tester
+
+New Symfony installer integration
+

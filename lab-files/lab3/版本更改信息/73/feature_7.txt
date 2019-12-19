@@ -1,0 +1,8 @@
+C/C++              
+
+Memory usage reduced by at least half for big projects              
+
+Parser speed improvements              
+
+Parser's index can be kept and relocated with project
+

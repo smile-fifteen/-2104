@@ -1,0 +1,10 @@
+Java EE
+
+Improved support for CDI, REST services and Java Persistence
+
+New support for Bean Validation 
+
+Support for JSF component libraries, including bundledPrimeFaces library
+
+Improved editing for Expression Language in JSF, includingcode completion, refactoring and hints 
+

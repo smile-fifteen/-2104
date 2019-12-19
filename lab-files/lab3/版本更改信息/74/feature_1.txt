@@ -1,0 +1,8 @@
+JavaScript              
+
+Editing support for AngularJS, Knockout and ExtJS                frameworks              
+
+Navigator and code folding in JSON files
+
+Enhanced code completion with improved accuracy              
+

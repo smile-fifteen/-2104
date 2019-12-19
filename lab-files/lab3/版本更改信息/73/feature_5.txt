@@ -1,0 +1,10 @@
+Groovy
+
+Groovy 2.0 integration
+
+Support in Java EE projects
+
+Groovy JUnit test support
+
+Basic refactoring implemented (Find Usages, Rename for                class type)              
+

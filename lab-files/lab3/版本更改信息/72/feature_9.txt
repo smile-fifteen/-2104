@@ -1,0 +1,10 @@
+Miscelleanous              
+
+Subversion 1.7 built-in support              
+
+Improved Find in Projects functionality              
+
+New default locations for userdir and cachedir              
+
+64-bit launcher for Windows              
+

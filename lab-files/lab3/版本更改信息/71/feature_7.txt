@@ -1,0 +1,10 @@
+Versioning      
+
+Integrated Git support        
+
+History tab on file editor window
+
+Locking/unlocking files in Subversion working directory
+
+Support for Mercurial branches and tags
+

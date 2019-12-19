@@ -1,0 +1,8 @@
+Oracle Database
+
+Simplified connection wizard
+
+Guided installation to JDBC driver
+
+Editing and deployment of stored procedures        
+

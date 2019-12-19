@@ -1,0 +1,8 @@
+Platform              
+
+Enhanced flexibility in the Window System, such as                split of editor via drag and drop, and a new API to                customize editor tabs.              
+
+New design of user interface for managing Project                Groups.              
+
+Files in folders can be sorted by extension.
+

@@ -1,0 +1,10 @@
+NetBeans Platform      
+
+New Window System APIs        
+
+Enhanced TopComponentGroup behavior
+
+Visual Window Layout designer
+
+Pluggable multiview components
+

@@ -1,0 +1,6 @@
+C/C++
+
+Easy import of project from user's existing binary        
+
+New Project type where user's source files are located onremote system        
+

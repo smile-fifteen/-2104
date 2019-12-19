@@ -1,0 +1,12 @@
+PHP
+
+Parsers for Namespaced Annotations (Symfony 2,                Doctrine 2, etc.)
+
+Basic Composer Integration (Dependency Manager for                PHP)
+
+Twig Code Completion (with documentation)
+
+Smarty Braces Matching for Related Tags
+
+Smarty Parser Errors of Unmatched Tags
+

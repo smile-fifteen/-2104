@@ -1,0 +1,10 @@
+C/C++              
+
+Support new C++11 standard              
+
+Pretty printing, watchpoints and catchpoints support                for gdb              
+
+Partial and Incremental Find Usages              
+
+Improved parsing performance and reduced memory                consumption              
+

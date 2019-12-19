@@ -1,0 +1,12 @@
+PHP
+
+HTML5 features available in PHP applications              
+
+Nette Framework 2 (with Latte templates) and Zend                Framework 2 support              
+
+Atoum testing framework support              
+
+Editor and Rename type refactoring improvements              
+
+Static code analysis support
+

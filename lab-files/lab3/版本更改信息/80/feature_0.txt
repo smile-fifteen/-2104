@@ -1,0 +1,12 @@
+Java              
+
+JDK 8 support: tools and editor enhancements for                working with Profiles, Lambdas, and Streams.
+
+Java SE Embedded support to deploy, run, debug or                profile Java SE applications on an embedded device, such                as Raspberry PI, directly from the NetBeans IDE.              
+
+Java ME Embedded 8 support.
+
+Several Java Editor enhancements, such as many new                Java hints, Javadoc shown as tooltip, instant rename                enhancements, and code completion exclusions.
+
+Improved integration with JavaFX Scene Builder.
+

@@ -1,0 +1,30 @@
+Profiler Redesign & Improvements              
+
+Redesigned user interface
+
+New features:                    
+
+Live forward and reverse call trees in CPU results
+
+Live allocation trees in Memory results
+
+Monitoring CPU utilization
+
+Thread dumps from profiled application
+
+
+
+Engine improvements:                    
+
+Faster connection to profiled application
+
+Limited outgoing calls from profiled methods
+
+Memory profiling for selected classes
+
+
+
+Simplified profiler setup
+
+Improved integration into the IDE
+

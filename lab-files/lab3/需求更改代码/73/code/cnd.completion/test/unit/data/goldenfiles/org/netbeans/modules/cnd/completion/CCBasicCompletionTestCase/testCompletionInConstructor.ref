@@ -1,0 +1,12 @@
+strMethod(char* s) void
+test() void
+xxx() void
+C()
+A
+B
+C
+In_Macro
+globInt int
+checkZero() void
+globFoo() void
+main(int argc, char** argv) int

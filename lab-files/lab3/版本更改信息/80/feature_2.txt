@@ -1,0 +1,12 @@
+Maven
+
+New Maven graph layout switcher.
+
+Navigator shows POM goals.
+
+Additional web resources shown in Projects window.
+
+Improved Maven performance when re-running Web                applications.
+
+Improved Maven performance of "Apply Code Changes"                while debugging.
+

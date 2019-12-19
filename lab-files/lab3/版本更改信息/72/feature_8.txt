@@ -1,0 +1,12 @@
+NetBeans Platform              
+
+Positioning of tabs in window system can be configured              
+
+Support for custom implementations of tab control
+
+New @NavigatorPanel.Registration for registering                navigator panels declaratively
+
+New @Arg annotation for registering command line                options declaratively
+
+New @NbBundle.Messages available on fields
+

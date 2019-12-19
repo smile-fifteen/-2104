@@ -1,0 +1,6 @@
+Java EE
+
+HTML5 features available in Java EE projects              
+
+Wizards for JSF 2.2 Resource Library Contracts and                FacesComponents              
+

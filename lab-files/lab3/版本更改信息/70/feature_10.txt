@@ -1,0 +1,8 @@
+General
+
+Word wrap in Editor        
+
+Enhanced Profiler integration
+
+Less intrusive checking for external changes when switchingbetween the IDE and other programs.
+

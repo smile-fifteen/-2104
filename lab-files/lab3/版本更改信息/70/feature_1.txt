@@ -1,0 +1,8 @@
+WebLogic Server      
+
+Streamlined and faster deployment to WebLogic
+
+New server runtime node displaying deployed applicationsand resources 
+
+JSF integration with server libraries        
+

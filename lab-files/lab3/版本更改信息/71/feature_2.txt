@@ -1,0 +1,10 @@
+Java      
+
+New Visual debugger        
+
+Gap support in GridBagLayout customizer
+
+Inspect and Refactor
+
+Improved Javadoc highlighting and formatting
+

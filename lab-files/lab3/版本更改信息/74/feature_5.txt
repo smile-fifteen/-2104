@@ -1,0 +1,8 @@
+JavaFX
+
+New FXML File dialog in Maven projects
+
+Tighter alignment for JavaSE and JavaFX project types
+
+Improvements to Project Deployment options
+

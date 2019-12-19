@@ -1,0 +1,8 @@
+NetBeans Platform              
+
+Options dialog contents filtering
+
+New File / Open Recent File menu, and a new shortcut                CTRL+ALT+T
+
+Main toolbar shows new drop down list for overflow                situations
+

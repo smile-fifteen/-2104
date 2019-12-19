@@ -1,0 +1,10 @@
+Java EE
+
+Amazon Elastic Beanstalk support
+
+Code completion for Java Persistence named queries and                JPQL statements
+
+More editor hints for EJB and CDI
+
+Improved and updated support for JSF component suites              
+

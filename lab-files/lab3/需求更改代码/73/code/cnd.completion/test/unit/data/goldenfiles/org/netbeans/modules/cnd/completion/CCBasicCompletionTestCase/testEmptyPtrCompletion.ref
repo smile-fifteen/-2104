@@ -1,0 +1,12 @@
+argc int
+argv char**
+pointer int*
+value int
+A
+B
+C
+In_Macro
+globInt int
+checkZero() void
+globFoo() void
+main(int argc, char** argv) int

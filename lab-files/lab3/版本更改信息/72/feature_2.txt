@@ -1,0 +1,12 @@
+Java
+
+FindBugs support
+
+TestNG testing framework support              
+
+New refactorings and hints
+
+Various Maven support enhancements
+
+Various Debugger enhancements              
+

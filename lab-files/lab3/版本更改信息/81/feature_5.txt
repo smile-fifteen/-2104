@@ -1,0 +1,14 @@
+C/C++ Enhacements              
+
+New mixed C++/Java development support 
+
+Enhancements to New Project Wizard
+
+SVN, Git and Mercurial support in Remote mode
+
+C++ Editor enhancements
+
+New audits, hints and refactorings
+
+Reverse engineering (Call Graph) enhancements
+

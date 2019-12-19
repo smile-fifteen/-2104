@@ -1,0 +1,10 @@
+JavaFX              
+
+FXML/Scene Builder Support 
+
+JDK 7u6+ support on Windows, Mac and Linux
+
+FXML editing greatly improved by providing accurate                code completion, error marking and more 
+
+FXML Generate Controller action added on FXML files
+

@@ -1,0 +1,9 @@
+NetBeans Platform      
+
+Annotations for generating Action registrations in the layer
+
+Performance enhancements & tight integration withProfiler
+
+AdditionalNetBeans API changes
+
+

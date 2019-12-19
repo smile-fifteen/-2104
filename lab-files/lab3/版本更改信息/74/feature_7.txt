@@ -1,0 +1,14 @@
+Miscellaneous              
+
+New Tasks Dashboard and Notifications windows
+
+Lock Contention for profiling tasks
+
+Bugzilla Offline Mode
+
+Enhancements to Versioning tools: Subversion, Git,                Mercurial              
+
+TestNG and Junit improvements              
+
+Improvements to Databases
+

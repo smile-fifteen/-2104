@@ -1,0 +1,38 @@
+JDK 7:
+70
+WebLogic Server:
+70->70->71
+Oracle Database:
+70->82->82
+JAVA EE:
+70->70->71->72->73->74->80->81
+Java:
+70->71->72->73->74->80->81
+PHP:
+70->71->72->73->74->80->81->82
+C/C++:
+70->72->73->74->80->81->82
+NetBeans Platform:
+70->71->72->73->80
+General:
+70->72->72->74->80->81
+JavaFX:
+71->72->73->74
+Versioning:
+71
+Groovy and Grails:
+72->73
+Project Easel: HTML5:
+73->74->80->81
+Profiler:
+73->81
+JavaScript:
+74->80->81->82
+Maven:
+80
+ECMAScript 6 and Experimental ECMAScript 7 Support:
+82
+Docker Support:
+82
+Editor Multicarets:
+82->82

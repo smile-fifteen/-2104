@@ -1,0 +1,8 @@
+Miscellaneous              
+
+Profiler enhancements: Profile on embedded platforms,                show thread owning monitor for lock contention, and                improved Threads view.
+
+Versioning enhancements: Support for Subversion 1.8                working copies, various enhancements to Git and                Mercurial support.
+
+Task Schedule and other new features in Tasks window                for bug tracking.
+

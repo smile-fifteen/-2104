@@ -1,0 +1,12 @@
+Project Easel: HTML5                Application Development
+
+HTML5 Application project with JavaScript testing                support
+
+JavaScript Editor significantly improved              
+
+Page inspector and visual CSS style editor              
+
+JavaScript Debugger              
+
+Embedded WebKit browser; deep integration with Chrome
+

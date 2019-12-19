@@ -1,0 +1,12 @@
+PHP
+
+Support for PHP 5.4
+
+PHP editing: Fix Uses action, annotations support,                editing of Neon and Apache Config files and more
+
+Support for Symfony2, Doctrine2 and ApiGen frameworks
+
+FTP remote synchronization
+
+Support for running PHP projects on Hudson 
+

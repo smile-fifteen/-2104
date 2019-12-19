@@ -1,0 +1,12 @@
+JavaFX               
+
+Scene Builder interoperability 
+
+Improved FXML and FX CSS support
+
+FX-in-Swing Projects
+
+Default configurations for instant Run as WebStart and                Run in Browser
+
+Project auto-update and improved FX SDK/RT                auto-detection
+

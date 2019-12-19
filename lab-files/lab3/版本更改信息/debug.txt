@@ -1,0 +1,24 @@
+71/feature_2.txt	new visual debugger        
+
+71/feature_5.txt	improved php debugging        
+
+72/feature_2.txt	various debugger enhancements              
+
+73/feature_1.txt	javascript debugger
+
+74/feature_6.txt	run/debug launchers support
+
+80/feature_0.txt	java se embedded support to deploy, run, debug or                profile java se applications on an embedded device, such                as raspberry pi, directly from the netbeans ide.              
+
+80/feature_2.txt	improved maven performance of "apply code changes"                while debugging.
+
+80/feature_3.txt	debugging of javascript code executed in nashorn (jdk                8+) script engine is supported.
+
+80/feature_4.txt	android 4.4 webkit debugging supported for cordova                3.3+.
+
+81/feature_0.txt	new support for debugging node.js applications
+
+82/feature_6.txt	              while debugging java, javascript, or c/c++ code a tooltip with a value of a variable or a selection can be pinned into the editor window.
+
+82/feature_8.txt	redesigned  to manage run or debug command configurations
+

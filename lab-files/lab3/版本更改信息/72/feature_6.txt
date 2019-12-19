@@ -1,0 +1,8 @@
+Groovy and Grails
+
+Dramatic improvement of scanning, code completion and                Go to Type action speed
+
+Updated to Groovy version 1.8.6
+
+Enhancements of code completion and editor hints
+

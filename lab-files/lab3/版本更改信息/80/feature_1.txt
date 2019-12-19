@@ -1,0 +1,18 @@
+Java EE
+
+New PrimeFaces code generators, to generate complete                PrimeFaces skeleton CRUD applications with connection to                databases.
+
+Support for WildFly Server and WebLogic 12.1.3
+
+Bundled GlassFish updated to 4.1
+
+Tomcat 8.0.15 and TomEE support, including out-of-box                JPA, JSF and JAXRS configuration and data sources.
+
+Facelets Template Client wizard asks for sections to                generate.
+
+Code completion for template sections, and within JSF                composite components.
+
+Enhanced CDI integration in beans.xml file,                with code completion for alternative classes and                stereotypes.
+
+More flexibility for JPA hints, which can be disabled,                enabled, and warning level changed.              
+

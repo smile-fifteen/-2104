@@ -1,0 +1,16 @@
+HTML5/JavaScript Enhancements
+
+New support for Gulp
+
+New support for Mocha and Selenium
+
+New Jade Node Template Engine support
+
+New Shadow DOM support via NetBeans Chrome plugin
+
+Enhanced support for Grunt
+
+Enhancements for AngularJS and KnockoutJS
+
+Projects recognized via package.json, bower.json, composer.json
+

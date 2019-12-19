@@ -1,0 +1,8 @@
+Performance
+
+Project scanning now on background, not blocking                editor features and navigation              
+
+Improved project scanning speed
+
+Improved performance on remote Filesystems
+

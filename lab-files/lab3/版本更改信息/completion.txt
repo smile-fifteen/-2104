@@ -1,0 +1,36 @@
+70/feature_0.txt	editor enhancements: code completion, hints
+
+70/feature_5.txt	code completion, refactoring and hints 
+
+71/feature_3.txt	code completion and documentation for new css3 elements
+
+72/feature_3.txt	code completion for java persistence named queries and                jpql statements
+
+72/feature_6.txt	dramatic improvement of scanning, code completion and                go to type action speed
+
+72/feature_6.txt	enhancements of code completion and editor hints
+
+73/feature_3.txt	                code completion, error marking and more 
+
+73/feature_4.txt	twig code completion (with documentation)
+
+74/feature_1.txt	enhanced code completion with improved accuracy              
+
+74/feature_4.txt	code completion, hints and refactoring                improvements 
+
+80/feature_0.txt	several java editor enhancements, such as many new                java hints, javadoc shown as tooltip, instant rename                enhancements, and code completion exclusions.
+
+80/feature_1.txt	code completion for template sections, and within jsf                composite components.
+
+80/feature_1.txt	enhanced cdi integration in beans.xml file,                with code completion for alternative classes and                stereotypes.
+
+80/feature_3.txt	many enhancements for angularjs in code completion                between artifacts, such as code completion in the view                to properties defined in controllers.
+
+80/feature_3.txt	code completion support in knockout templates. 
+
+80/feature_6.txt	new hints and code completions.
+
+81/feature_2.txt	enhanced code completion("intellisense")
+
+82/feature_0.txt	code completion for generators
+
